@@ -13,7 +13,7 @@ I'm @PandeoF1 (Nard Théo) passionate of DevOps and programming since 2016, curr
 ![langs](https://skillicons.dev/icons?i=c,cpp,go,python,rust,javascript,typescript&perline=)
 
 ## ☁️ Tools
-![langs](https://skillicons.dev/icons?i=git,github,docker,k8s,nginx,bitbucket,gcp,redis,rabbitmq,postgres,mongodb,mariadb&perline=)
+![langs](https://skillicons.dev/icons?i=docker,k8s,gcp,redis,rabbitmq,github,bitbucket,gitlab,postgres,mongodb,mysql&perline=)
 
 ## 📈 My Stats
 

@@ -1,6 +1,23 @@
-### Hi there 👋
+# Hi, there ! 👋
+I'm @PandeoF1 (Nard Théo) passionate of DevOps and programming since 2016, currently at [42 Lyon](https://www.42lyon.fr/) (tnard) and in apprenticeship at [IT-D](https://fr.it-development.com/)
 
-- 👋 I'm @PandeoF1 (Nard Théo)
-- 🤔 I'm looking to be a devOps
-- 💬 I'm currently at [42 Lyon](https://www.42lyon.fr/) (tnard) -> Apprenticeship at [IT-D](https://fr.it-development.com/)
-- 📫 How to reach me: [contact@pandeo.fr](contact@pandeo.fr)
+---
+
+## 📫 Contact
+
+<div align="left" style="display:inline_block"> 
+  <a href="https://www.linkedin.com/in/theo-nard/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contact@pandeo.fr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+## *️⃣ Languages
+![langs](https://skillicons.dev/icons?i=c,cpp,go,python,rust,javascript,typescript&perline=)
+
+## ☁️ Tools
+![langs](https://skillicons.dev/icons?i=git,github,docker,k8s,nginx,bitbucket,gcp,redis,rabbitmq,postgres,mongodb,mariadb&perline=)
+
+## 📈 My Stats
+
+[![status](https://raw.githubusercontent.com/PandeoF1/github-stats-transparent/output/generated/overview.svg)](#)
+[![languages](https://raw.githubusercontent.com/PandeoF1/github-stats-transparent/output/generated/languages.svg)](#)
+
+![](https://komarev.com/ghpvc/?username=PandeoF1&color=blue&style=for-the-badge)
